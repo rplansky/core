@@ -16,7 +16,7 @@
         "zizaco/confide": "~4.0"
     },
     "require-dev": {
-        "laravel/framework": "~4.2",
+        "laravel/framework": "5.*@dev",
         "phpunit/phpunit": "~4.0",
         "mockery/mockery": "~0.9",
         "satooshi/php-coveralls": "~0.7",
