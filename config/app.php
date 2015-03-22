@@ -139,11 +139,11 @@ return [
 		/*
 		 * Application Service Providers...
 		 */
-		'App\Providers\AppServiceProvider',
-		'App\Providers\BusServiceProvider',
-		'App\Providers\ConfigServiceProvider',
-		'App\Providers\EventServiceProvider',
-		'App\Providers\RouteServiceProvider',
+		'RPlanskyBlog\Providers\AppServiceProvider',
+		'RPlanskyBlog\Providers\BusServiceProvider',
+		'RPlanskyBlog\Providers\ConfigServiceProvider',
+		'RPlanskyBlog\Providers\EventServiceProvider',
+		'RPlanskyBlog\Providers\RouteServiceProvider',
 
 	],
 

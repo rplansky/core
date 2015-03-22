@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: RPlanskyBlog
+        psr4_prefix: RPlanskyBlog
         src_path: app

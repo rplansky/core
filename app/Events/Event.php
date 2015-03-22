@@ -1,4 +1,4 @@
-<?php namespace App\Events;
+<?php namespace RPlanskyBlog\Events;
 
 abstract class Event {
 

@@ -1,4 +1,4 @@
-<?php namespace App\Commands;
+<?php namespace RPlanskyBlog\Commands;
 
 abstract class Command {
 

@@ -1,6 +1,6 @@
-<?php namespace App\Services;
+<?php namespace RPlanskyBlog\Services;
 
-use App\User;
+use RPlanskyBlog\User;
 use Validator;
 use Illuminate\Contracts\Auth\Registrar as RegistrarContract;
 
